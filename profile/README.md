@@ -3,7 +3,7 @@
 **Welcome to our private playground of multi-vendor goodness!** Here, we’re crafting sleek, scalable starter kits to help you build amazing marketplace apps in no time. 
 
 ## What’s Inside? 🎁
-- **[Laravel + React + Inertia + SSR Starter Kit](https://github.com/your-org/laravel-react-inertia)**  
+- **[Laravel + React + Inertia + SSR Starter Kit](https://github.com/larastore-io/laravel-react-inertia)**  
   A ready-to-roll foundation so you can jump straight into coding awesomeness.
 
 ## Our Vibe 🎉
